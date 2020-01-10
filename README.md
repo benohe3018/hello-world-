@@ -1,2 +1,3 @@
 # hello-world-
 Mi primer repositorio
+Breve historia, voy iniciando en ciencia de datos y no me quiero detener......
